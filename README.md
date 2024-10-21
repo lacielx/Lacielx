@@ -7,5 +7,5 @@
 ### 我の爱好：
 - 我喜欢的游戏：
 -[x] Paper Lily -- 纸百合
-![Lecie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxlacie)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxlacie)
+![Lecie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laicexixizi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laicexixizi)
