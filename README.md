@@ -6,7 +6,7 @@
 - 我的年龄：13
 ### 我の爱好：
 - 我喜欢的游戏：
--[x] Paper Lily -- 纸百合
+- Paper Lily -- 纸百合
 ---
 ![Lecie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacielx)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacielx)
